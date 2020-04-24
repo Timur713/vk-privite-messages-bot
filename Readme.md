@@ -1,6 +1,6 @@
 # VK privite messages bot.
 ## How to launch:
-1. Open `/src/main/resources/vkconfig.properties`.
+1. Create `/src/main/resources/vkconfig.properties`.
 2. Set your `group_id` and `access_token` 
 You can create `access_token` in your group settings `->` API usage `->` Create token.
 3. At last you need enable longpoll in `2. step` settings.
