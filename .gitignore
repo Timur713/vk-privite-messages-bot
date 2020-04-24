@@ -1,3 +1,4 @@
+src/main/resources/vkconfig.properties
 .idea
 target
-src/main/resources/realconfig.properties
+src/main/resources/forme.txt
